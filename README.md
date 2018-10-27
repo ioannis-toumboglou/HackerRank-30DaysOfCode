@@ -7,32 +7,32 @@ An new assignment was given each day for the period of one month, covering some 
 List of topics:
 
 Day 00. Hello World!<br />
-Day 01. Data types 
-Day 02. Operators
-Day 03. Intro to conditional statements
-Day 04. Class vs. Instance
-Day 05. Loops
-Day 06. Let's review
-Day 07. Arrays
-Day 08. Dictionaries and Maps
-Day 09. Recursion
-Day 10. Binary numbers
-Day 11. 2D Arrays
-Day 12. Inheritance
-Day 13. Abstract classes
-Day 14. Scope
-Day 15. Linked list
-Day 16. Exceptions - String to integer
-Day 17. More exceptions
-Day 18. Queues and Stacks
-Day 19. Interfaces
-Day 20. Sorting
-Day 21. Generics
-Day 22. Binary search trees
-Day 23. BST Level-order traversal
-Day 24. More Linked lists
-Day 25. Running time and complexity
-Day 26. Nested logic
-Day 27. Testing
-Day 28. RegEx, Patterns and Intro to databases
-Day 29. Bitwise AND
+Day 01. Data types <br />
+Day 02. Operators<br />
+Day 03. Intro to conditional statements<br />
+Day 04. Class vs. Instance<br />
+Day 05. Loops<br />
+Day 06. Let's review<br />
+Day 07. Arrays<br />
+Day 08. Dictionaries and Maps<br />
+Day 09. Recursion<br />
+Day 10. Binary numbers<br />
+Day 11. 2D Arrays<br />
+Day 12. Inheritance<br />
+Day 13. Abstract classes<br />
+Day 14. Scope<br />
+Day 15. Linked list<br />
+Day 16. Exceptions - String to integer<br />
+Day 17. More exceptions<br />
+Day 18. Queues and Stacks<br />
+Day 19. Interfaces<br />
+Day 20. Sorting<br />
+Day 21. Generics<br />
+Day 22. Binary search trees<br />
+Day 23. BST Level-order traversal<br />
+Day 24. More Linked lists<br />
+Day 25. Running time and complexity<br />
+Day 26. Nested logic<br />
+Day 27. Testing<br />
+Day 28. RegEx, Patterns and Intro to databases<br />
+Day 29. Bitwise AND<br />
