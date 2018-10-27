@@ -12,7 +12,7 @@ Day 02. Operators<br />
 Day 03. Intro to conditional statements<br />
 Day 04. Class vs. Instance<br />
 Day 05. Loops<br />
-Day 06. Let's review<br />
+Day 06. Let's review (String manipulation)<br />
 Day 07. Arrays<br />
 Day 08. Dictionaries and Maps<br />
 Day 09. Recursion<br />
