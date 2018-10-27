@@ -6,7 +6,7 @@ An new assignment was given each day for the period of one month, covering some 
 
 List of topics:
 
-Day 00. Hello World!
+Day 00. Hello World!<br />
 Day 01. Data types 
 Day 02. Operators
 Day 03. Intro to conditional statements
